@@ -1,0 +1,8 @@
+Bill Designer Pro Website
+Version: v4
+
+Changes in v4:
+- App-inspired cyan, electric-blue and violet theme.
+- Improved Get a Quote CTA spacing and alignment.
+- Active footer navigation link highlighted in cyan/blue.
+- Preserved responsive/mobile-first styling and central configuration.
