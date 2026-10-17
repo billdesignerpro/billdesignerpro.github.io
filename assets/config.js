@@ -6,8 +6,8 @@ window.BDP_CONFIG = {
   contactEmail: "billdesignerpro@gmail.com",
   phoneDisplay: "+91 9477715945",
   whatsappNumber: "919477715945", // country code + number, digits only
-  regularStartingPrice: 1499,
-  offerStartingPrice: 999,
+  regularStartingPrice: 2099,
+  offerStartingPrice: 1299,
   offerSavings: 500,
   offerBadge: "LIMITED-TIME INTRODUCTORY OFFER",
   offerAvailabilityText: "Available for a limited number of customers for a limited time. Final pricing depends on the agreed requirements, customization and any additional features.",
