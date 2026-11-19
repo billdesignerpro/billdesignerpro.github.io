@@ -1,5 +1,5 @@
 { "shops": {
-    "shop1": { "enabled": true, "message": "Subscription expired", "contact": "919477715945" },
+    "shop1": { "enabled": false, "message": "Subscription expired", "contact": "919477715945" },
     "shop2": { "enabled": false, "message": "Subscription expired", "contact": "919477715945" }
   } 
 }
